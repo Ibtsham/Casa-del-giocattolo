@@ -1,3 +1,4 @@
+
 # Casa del Giocattolo solidale 🐎
 
 Registro Elettronico per fare l'appello degli alunni.
@@ -5,9 +6,14 @@ Registro Elettronico per fare l'appello degli alunni.
 ## 📱 Screenshot
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bc6d7b81-38c6-4523-b2ae-51c5ecd6b0a1" width="230" alt="Schermata App 1" />
-  <img src="https://github.com/user-attachments/assets/5841d6e4-e31d-41b2-a0f4-0e3fd134f4a5" width="230" alt="Schermata App 2" />
-  <img src="https://github.com/user-attachments/assets/203247d3-10f7-47b5-8b9d-f84971027fe0" width="230" alt="Schermata App 3" />
+  <img src="https://github.com/user-attachments/assets/bc6d7b81-38c6-4523-b2ae-51c5ecd6b0a1" width="220" alt="Schermata App 1" />
+  <img src="https://github.com/user-attachments/assets/5841d6e4-e31d-41b2-a0f4-0e3fd134f4a5" width="220" alt="Schermata App 2" />
+  <img src="https://github.com/user-attachments/assets/203247d3-10f7-47b5-8b9d-f84971027fe0" width="220" alt="Schermata App 3" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c7023ea0-3d57-454c-aea7-2c16502737fd" width="220" alt="Schermata App 4" />
+  <img src="https://github.com/user-attachments/assets/e476ad76-5b51-45f2-8acf-dc440bec6204" width="220" alt="Schermata App 5" />
+  <img src="https://github.com/user-attachments/assets/c6474391-58be-4a6e-97ac-a7e2ebcbce57" width="220" alt="Schermata App 6" />
 </p>
 
 ---
