@@ -5,9 +5,9 @@ Registro Elettronico per fare l'appello degli alunni.
 ## 📱 Screenshot
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5841d6e4-e31d-41b2-a0f4-0e3fd134f4a5" width="230" alt="Schermata App 1" />
-  <img src="https://github.com/user-attachments/assets/203247d3-10f7-47b5-8b9d-f84971027fe0" width="230" alt="Schermata App 2" />
-  <img src="https://github.com/user-attachments/assets/bc6d7b81-38c6-4523-b2ae-51c5ecd6b0a1" width="230" alt="Schermata App 3" />
+  <img src="https://github.com/user-attachments/assets/bc6d7b81-38c6-4523-b2ae-51c5ecd6b0a1" width="230" alt="Schermata App 1" />
+  <img src="https://github.com/user-attachments/assets/5841d6e4-e31d-41b2-a0f4-0e3fd134f4a5" width="230" alt="Schermata App 2" />
+  <img src="https://github.com/user-attachments/assets/203247d3-10f7-47b5-8b9d-f84971027fe0" width="230" alt="Schermata App 3" />
 </p>
 
 ---
