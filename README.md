@@ -22,7 +22,7 @@ Registro Elettronico per fare l'appello degli alunni.
 
 ## 📥 Installazione
 
-1. Scarica l'ultimo file `app-debug.apk` dalla sezione **[Releases](https://github.com/Ibtsham/Casa-del-giocattolo/releases)**.
+1. Scarica l'ultimo file `Diario casa del giocattolo.apk` dalla sezione **[Releases](https://github.com/Ibtsham/Casa-del-giocattolo/releases)**.
 2. Trasferisci il file `.apk` sul tuo dispositivo Android.
 3. Apri il file sul telefono e autorizza l'opzione *Consenti l'installazione da fonti sconosciute* se richiesto.
 4. Avvia l'applicazione!
