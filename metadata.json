@@ -1,0 +1,6 @@
+{
+  "name": "Diario Casa del Giocattolo",
+  "description": "Registro delle presenze e diario scolastico per l'associazione no-profit Casa del Giocattolo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
