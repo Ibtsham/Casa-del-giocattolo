@@ -1,5 +1,5 @@
 
-# Casa del Giocattolo solidale 🐎
+# Diario Casa del Giocattolo solidale 🐎
 
 Registro Elettronico per fare l'appello degli alunni.
 
